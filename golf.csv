@@ -1,0 +1,15 @@
+Clima	Temperatura	Umidade	Vento	Jogar Golf?
+Chuvoso	Quente	Alta	FALSO	Não
+Chuvoso	Quente	Alta	VERDADEIRO	Não
+Nublado	Quente	Alta	FALSO	Sim
+Ensolarado	Moderado	Alta	FALSO	Sim
+Ensolarado	Frio	Normal	FALSO	Sim
+Ensolarado	Frio	Normal	VERDADEIRO	Não
+Nublado	Frio	Normal	VERDADEIRO	Sim
+Chuvoso	Moderado	Alta	FALSO	Não
+Chuvoso	Frio	Normal	FALSO	Sim
+Ensolarado	Moderado	Normal	FALSO	Sim
+Chuvoso	Moderado	Normal	VERDADEIRO	Sim
+Nublado	Moderado	Alta	VERDADEIRO	Sim
+Nublado	Quente	Normal	FALSO	Sim
+Ensolarado	Moderado	Alta	VERDADEIRO	Não
